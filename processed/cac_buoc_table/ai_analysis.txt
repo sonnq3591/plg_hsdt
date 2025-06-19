@@ -1,0 +1,3 @@
+TABLE_FOUND: Yes  
+START_CONTEXT: The table starts on Page 3 with the header "Số TT" and "Nội dung công việc". The first step listed is "1 Giao nhận tài liệu và lập biên bản giao nhận tài liệu".  
+STEP_COUNT_ESTIMATE: 23 steps, including sub-steps.
