@@ -1,0 +1,2 @@
+HEADING_TEXT: "3.2. Công việc thực hiện của mỗi bước:"
+TABLE_START_TEXT: "Số TT Nội dung công việc"

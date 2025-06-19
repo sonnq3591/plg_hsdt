@@ -1,0 +1,4 @@
+{
+  "pham_vi_cung_cap": "STTDanh mục dịch vụMô tả dịch vụKhối lượng \nmời thầuĐơn vị tínhĐịa điểm thực hiện \ndịch vụNgày hoàn \nthành dịch \nvụ \n1Chỉnh lý tài liệu phòng hành \nchính tổng hợpTheo quy định tại \nChương V33,81 MétTrường Đại học Luật \nHà Nội , địa chỉ: Số \n87 đường Nguyễn Chí \nThanh, phường Láng \nThượng, quận Đống \nĐa, thành phố Hà Nội120 ngày kể \ntừ ngày hợp \nđồng có hiệu \nlực\n2Chỉnh lý tài liệu phòng đào \ntạo  đại học và sau đại họcTheo quy định tại \nChương V182,31 MétTrường Đại học Luật \nHà Nội , địa chỉ: Số \n87 đường Nguyễn Chí \nThanh, phường Láng \nThượng, quận Đống \nĐa, thành phố Hà Nội120 ngày kể \ntừ ngày hợp \nđồng có hiệu \nlực",
+  "type": "table"
+}

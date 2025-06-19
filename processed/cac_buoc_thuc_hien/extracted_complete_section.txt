@@ -1,0 +1,53 @@
+PARAGRAPH1: - Không phân tán phông lưu trữ. Tài liệu của từng đơn vị hình thành phông phải được chỉnh lý và sắp xếp riêng biệt;
+
+PARAGRAPH2: - Khi phân loại, lập hồ sơ (chỉnh sửa hoàn thiện, phục hồi hoặc lập mới hồ sơ), phải tôn trọng sự hình thành tài liệu theo trình tự theo dõi, giải quyết công việc.
+
+TABLE_START
+Số TT,Nội dung công việc
+1,Giao nhận tài liệu và lập biên bản giao nhận tài liệu
+2,Vận chuyển tài liệu từ kho bảo quản đến địa điểm chỉnh lý (khoảng cách ~100m)
+3,Vệ sinh sơ bộ tài liệu
+4,Khảo sát và biên soạn các văn bản hướng dẫn chỉnh lý:
+- Báo cáo kết quả khảo sát tài liệu;
+- Kế hoạch chỉnh lý;
+- Lịch sử đơn vị hình thành phông, lịch sử phông;
+- Hướng dẫn phân loại, lập hồ sơ và xác định giá trị tài liệu.
+5,Phân loại tài liệu theo Hướng dẫn phân loại
+6,Lập hồ sơ hoặc chỉnh sửa, hoàn thiện hồ sơ theo Hướng dẫn lập hồ sơ
+a),Lập hồ sơ đối với tài liệu rời lẻ
+- Tập hợp tài liệu thành hồ sơ;
+- Biên soạn tiêu đề hồ sơ;
+- Hệ thống hóa tài liệu trong hồ sơ;
+- Xác định thời hạn bảo quản cho hồ sơ;
+- Viết tiêu đề, lý do loại đối với tài liệu hết giá trị.
+b),Chỉnh sửa, hoàn thiện hồ sơ đối với tài liệu đã được lập hồ sơ sơ bộ
+- Kiểm tra hồ sơ đã được lập (nội dung tài liệu, tiêu đề hồ sơ, thời hạn bảo quản,…);
+- Bổ sung tài liệu, chỉnh sửa tiêu đề, xác định thời hạn bảo quản,…);
+- Hệ thống hóa tài liệu trong hồ sơ.
+7,Viết các trường thông tin vào phiếu tin: số hồ sơ (số tạm); tiêu đề hồ sơ; thời gian của tài liệu; thời hạn bảo quản; ngôn ngữ; bút tích; chế độ sử dụng; dấu chỉ mức độ mật; tình trạng tài liệu; ghi chú.
+8,Kiểm tra, chỉnh sửa hồ sơ và phiếu tin
+9,Hệ thống hóa phiếu tin theo phương án phân loại
+10,Hệ thống hóa hồ sơ theo phiếu tin
+11,Biên mục hồ sơ
+a,Đánh số tờ cho tài liệu đối với hồ sơ có thời hạn bảo quản từ 20 năm trở lên và điền số lượng vào phiếu tin;
+b,Biên soạn và in mục lục văn bản đối với hồ sơ bảo quản vĩnh viễn;
+c,Viết/in bìa hồ sơ và chứng từ kết thúc.
+12,Kiểm tra và chỉnh sửa việc biên mục hồ sơ
+13,Ghi số hồ sơ chính thức vào phiếu tin và lên bìa hồ sơ
+14,Vệ sinh tài liệu, tháo bỏ ghim, kẹp, làm phẳng và đưa tài liệu vào bìa hồ sơ
+15,Đưa hồ sơ vào hộp (cặp)
+16,Viết/in và dán nhãn hộp (cặp)
+17,Vận chuyển tài liệu vào kho và xếp lên giá
+18,Giao, nhận tài liệu sau chỉnh lý và lập Biên bản giao, nhận tài liệu
+19,Nhập phiếu tin vào cơ sở dữ liệu
+20,Kiểm tra, chỉnh sửa việc nhập phiếu tin
+21,Lập mục lục hồ sơ
+a),Viết lời nói đầu;
+b),In và đóng quyển mục lục hồ sơ từ cơ sở dữ liệu (03 bộ).
+22,Thống kê, bó gói, lập danh mục và viết thuyết minh tài liệu loại
+a),Sắp xếp, bó gói, thống kê tài liệu loại;
+b),Viết thuyết minh tài liệu loại.
+23,Kết thúc chỉnh lý
+a),Hoàn thành và bàn giao hồ sơ phông;
+b),Viết báo cáo tổng kết chỉnh lý.
+TABLE_END

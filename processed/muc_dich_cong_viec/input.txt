@@ -1,0 +1,437 @@
+ 
+ 100 
+Phần 2. YÊU CẦU VỀ KỸ THUẬT  
+Chương V. YÊU CẦU VỀ KỸ THUẬT  
+1. Giới thiệu chung về dự án, gói thầu:  
+- Tên gói thầu: Chỉnh lý tài liệu của Trường Đại học Luật Hà Nội  
+- Chủ đầu tư: Trường Đại học Luật Hà Nội . 
+- Nguồn vốn: Nguồn thu hoạt động sự nghiệp . 
+- Hình thức lựa chọn nhà thầu: Chào hàng cạnh tranh,  qua mạng.  
+- Phương thức lựa chọn nhà thầu: Một giai đoạn, một túi hồ sơ.  
+- Tiến độ thực hiện: 120 ngày  kể từ ngày hợp đồng có hiệu lực.  
+- Hình thức hợp đồng: Trọn gói.  
+2. Mục đích , yêu cầu của công việc:  
+ a) Mục đích cô ng việc : 
+Chỉnh lý, sắp xếp và tổ chức quản lý tài liệu tồn đọng từ các năm trước của 
+Trường Đại học Luật Hà Nội  theo một phương án phân loại cụ thể và khoa học 
+theo đúng các quy định về lưu trữ của Nhà nước. Tiến hành chỉnh sửa hoàn 
+thiện, phục hồi hoặc lập mới hồ sơ, xác định giá trị; hệ thống hoá hồ sơ, tài liệu 
+và làm các công cụ tra cứu phục vụ quản lý. Việc chỉnh lý tài liệu lưu trữ một 
+cách khoa học được thực hiện theo Công văn số 283/VTLTNN -NVTW ngày 
+19/5/2004 của Cục Văn thư - Lưu trữ nhà nước về việc ban hành Hướng dẫn 
+chỉnh lý tài liệu hành chính . 
+Thống nhất quản lý nhà nước về công tác văn thư lưu trữ trên địa bàn tỉnh, 
+tiếp tục đưa công tác văn thư lưu trữ đi vào nề nếp, khoa học và đúng quy định 
+của pháp luật.  
+Do lượng tài liệu có giá trị tại Trường Đại học Luật Hà Nội còn nhiều 
+nhưng chưa được chỉnh lý, sắp xếp nên công tác quản lý, tra cứu và khai thác dữ 
+liệu lịch sử gặp nhiều khó khăn. Ngoài ra, các tài liệu này cũng là những tài sản 
+quan trọng để phản ánh tốt nhất sự hình thành và phát triển cũng như các công 
+tác giải quyết vấn đề của Trường Đại học Luật Hà Nội . Do đó, các tài liệu cần 
+được tiếp tục chỉnh lý để đưa vào lưu trữ cũng mang lại những lợi ích sau đây:  
+- Tăng cường các hoạt động quản lý điều hành bằng văn bản một cách 
+thuận tiện.  
+- Phục vụ công tác nghiên cứu, tra tìm, khai thác nội dung tài liệu một cách 
+nhanh chóng, thuận tiện và chính xác.  
+- Hỗ trợ cho công tác tổng hợp, thống kê, báo cáo và phân tích số liệu một 
+cách đầy đủ và có căn cứ.  
+- Giảm thiểu các rủi ro về căn cứ pháp lý khi cần sử dụng vì xét trong phạm 
+vi cơ quan, tổ chức thì tài liệu lưu trữ chính là bộ nhớ của cơ quan tổ chức và là 
+trí tuệ, kinh nghiệm được truyền lại qua các thời kỳ, giai đoạn hoạt động của cơ 
+quan, tổ chức.  
+ 
+ 101 
+Làm giàu Phông lưu trữ của Trường Đại học Luật Hà Nội , phản ánh được 
+sâu sát hơn về các hoạt động, sự phát triển của Trường Đại học Luật Hà Nội, là 
+cơ sở tra cứu, làm việc cho các cán bộ nhân viên trong Trường. . 
+b)  Yêu cầu:  
+Chỉnh lý, xác định lại giá trị tài liệu một cách nhanh chóng và chính xác.  
+Sản phẩm sau khi chỉnh lý đáp ứng các yêu cầu sau:  
+ + Tài liệu sau chỉnh lý sẽ được lập thành hồ sơ, đơn vị bảo quản hoàn 
+chỉnh; được hệ thống hóa một cách khoa học, kèm theo công cụ tra cứu như mục 
+lục hồ sơ.  
+ + Tài liệu được phân loại, chỉnh lý, sắp xếp khoa học theo đúng chuyên 
+môn, nghiệp vụ lưu trữ đáp ứng được yêu cầu của quản lý và tra tìm tài liệu 
+phục vụ giải quyết công việc trong thực tế của cơ quan;  
+ + Xác định giá trị tài liệu, loại bỏ được những tài liệu trùng thừa, hết giá 
+trị ra khỏi kho lưu trữ, tiết kiệm diện tích bảo quản tài liệu;  
+ + Hướng dẫn cán bộ phụ trách lưu trữ nắm được qui trình nghiệp vụ và  
+toàn bộ tài liệu trong kho, đảm bảo yêu cầu về công tác bảo mật, an toàn dữ liệu 
+và khai thác sử dụng tài liệu.  
+c) Công tác chỉnh lý tài liệu áp dụng căn cứ vào hệ thống các văn bản pháp 
+lý sau:  
+Các Văn bản Luật, Nghị định về công tác lưu trữ:  
+- Căn cứ Luật Lưu trữ số 01/2011/QH13 ngày 11/11/2011;  
+- Căn cứ Nghị định số 01/2013/NĐ -CP ngày 03/01/2013 của Chính phủ quy 
+định chi tiết thi hành một số điều của Luật Lưu trữ;  
+Quy định về thời hạn bảo quản tài liệu:  
+- Căn cứ Quy định số 163/QĐ -VTLTNN ngày 04/8/2010 của Cục Văn thư 
+lưu trữ nhà nước về thời hạn bảo quản hồ sơ, tài liệu hình thành phổ biến trong hoạt 
+động của các cơ quan, tổ chức;  
+- Căn cứ Căn cứ Thông tư số 10/2022/TT -BNV ngày 19/12/2022 của Bộ 
+Nội vụ quy định về thời gian bảo quản tài liệu;  
+Quy định về các bước của nghiệp vụ chỉnh lý tài liệu:  
+- Căn cứ Công văn số 283/VTLTNN -NVTW ngày 19/5/2004 của Cục Văn 
+thư - Lưu trữ nhà nước về việc ban hành Hướng dẫn chỉnh lý tài liệu hành chính;  
+- Căn cứ Quyết định số 128/QĐ -VTLTNN ngày 01/6/2009 của Cục Văn thư 
+Lưu trữ Nhà nước ban hành quy trình “Chỉnh lý tài liệu giấy” theo TCVN ISO 
+9001:2000;  
+Quy định về tiêu chuẩn kỹ thuật văn phòng phẩm:  
+- Quyết định số 1687/QĐ -BKHCN ngày 23/7/2012 của Bộ Khoa học và 
+công nghệ về việc công bố Tiêu chuẩn quốc gia ; 
+ 
+ 102 
+- Thông tư 16/2023/TT -BNV ngày 15/11/2023 của Bộ Nội vụ quy định 
+định mực kinh tế - kỹ thuật chỉnh lý tài liệu nền giấy;  
+- Thông tư số 12/2010/TT -BNV ngày 26/11/2010 của Bộ Nội vụ hướng dẫn 
+phương pháp xác định đơn giá chỉnh lý tài liệu giấy.  
+3. Yêu cầu kỹ thuật của gói thầu:  
+3.1 Nội dung chỉnh lý : 
+Thực hiện chỉnh lý 216,12 mét tài liệu của Trư ờng Đại học Luật Hà Nội, 
+cụ thể như sau:  
+STT  Danh mục dịch vụ  Khối lượng mời 
+thầu  Đơn vị 
+tính 
+(1) (2) (4) (5) 
+1 Chỉnh lý tài liệu phòng hành chính 
+tổng hợp  33,81  Mét 
+2 Chỉnh lý tài liệu phòng đào tạo  đại 
+học và sau đại học  182,31  Mét 
+3.2 Nguyên t ắc chỉnh lý  
+- Không phân tán phông lưu trữ. Tài liệu của từng đơn vị hình thành 
+phông phải được chỉnh lý và sắp xếp riêng biệt;  
+- Khi phân loại, lập hồ sơ (chỉnh sửa hoàn thiện, phục hồi hoặc lập mới hồ sơ), 
+phải tôn trọng sự hình thành tài liệu theo trình tự theo dõi, giải quyết công việc.  
+- Tài liệu sau khi chỉnh lý phải phản ánh được các hoạt động của cơ quan 
+hình thành tài liệu; sự liên hệ logic và lịch sử của tài liệu.  
+3.3 Yêu cầu về quy trình chỉnh lý  
+- Tuân thủ theo các bước thực hiện chỉnh lý quy định tại Thông tư số 
+16/2023/TT -BNV ngày 15/11/2023 của Bộ Nội vụ Quy định định mức kinh tế - 
+kỹ thuật chỉnh lý tài liệu nền giấy ; 
+- Toàn bộ việc thi công chỉnh lý tài liệu được thực hiện tập trung tại 01 địa 
+điểm được Chủ đầu tư bố trí, sắp xếp. Địa điểm thi công phải đầy đủ các trang 
+thiết bị, điều kiện đảm bảo an ninh, an toàn hồ sơ, dữ liệu trong suốt quá trình 
+thi công dự án.  
+Số 
+TT Nội dung công việc  Ghi chú  
+1 Giao nhận tài liệu và lập biên bản giao nhận tài liệu   
+2 Vận chuyển tài liệu từ kho bảo quản đến địa điểm chỉnh lý 
+(khoảng cách ~100m)   
+3 Vệ sinh sơ bộ tài liệu   
+ 
+ 103 
+Số 
+TT Nội dung công việc  Ghi chú  
+4 Khảo sát và biên soạn các văn bản hướng dẫn chỉnh lý:  
+- Báo cáo kết quả khảo sát tài liệu;  
+- Kế hoạch chỉnh lý;  
+- Lịch sử đơn vị hình thành phông, lịch sử phông;  
+- Hướng dẫn phân loại, lập hồ sơ và xác định giá trị tài 
+liệu.  
+5 Phân loại tài liệu theo Hướng dẫn phân loại   
+6 Lập hồ sơ hoặc chỉnh sửa, hoàn thiện hồ sơ theo Hướng 
+dẫn lập hồ sơ   
+a) Lập hồ sơ đối với tài liệu rời lẻ  
+- Tập hợp tài liệu thành hồ sơ;  
+- Biên soạn tiêu đề hồ sơ;  
+- Hệ thống hóa tài liệu trong hồ sơ;  
+- Xác định thời hạn bảo quản cho hồ sơ;  
+- Viết tiêu đề, lý do loại đối với tài liệu hết giá trị.   
+b) Chỉnh sửa, hoàn thiện hồ sơ đối với tài liệu đã được lập 
+hồ sơ sơ bộ  
+- Kiểm tra hồ sơ đã được lập (nội dung tài liệu, tiêu đề hồ 
+sơ, thời hạn bảo quản,…);  
+- Bổ sung tài liệu, chỉnh sửa tiêu đề, xác định thời hạn bảo 
+quản,…);  
+- Hệ thống hóa tài liệu trong hồ sơ.   
+7 Viết các trường thông tin vào phiếu tin: số hồ sơ (số tạm); 
+tiêu đề hồ sơ; thời gian của tài liệu; thời hạn bảo quản; 
+ngôn ngữ; bút tích; chế độ sử dụng; dấu chỉ mức độ mật; 
+tình trạng tài liệu; ghi chú.   
+8 Kiểm tra, chỉnh sửa hồ sơ và phiếu tin   
+9 Hệ thống hóa phiếu tin theo phương án phân loại   
+10 Hệ thống hóa hồ sơ theo phiếu tin   
+11 Biên mục hồ sơ   
+a Đánh số tờ cho tài liệu đối với hồ sơ có thời hạn bảo quản 
+từ 20 năm trở lên và điền số lượng vào phiếu tin;   
+b Biên soạn và in mục lục văn bản đối với hồ sơ bảo quản 
+vĩnh viễn;   
+c Viết/in bìa hồ sơ và chứng từ kết thúc.   
+ 
+ 104 
+Số 
+TT Nội dung công việc  Ghi chú  
+12 Kiểm tra và chỉnh sửa việc biên mục hồ sơ   
+13 Ghi số hồ sơ chính thức vào phiếu tin và lên bìa hồ sơ   
+14 Vệ sinh tài liệu, tháo bỏ ghim, kẹp, làm phẳng và đưa tài 
+liệu vào bìa hồ sơ   
+15 Đưa hồ sơ vào hộp (cặp)   
+16 Viết/in và dán nhãn hộp (cặp)   
+17 Vận chuyển tài liệu vào kho và xếp lên giá   
+18 Giao, nhận tài liệu sau chỉnh lý và lập Biên bản giao, nhận 
+tài liệu   
+19 Nhập phiếu tin vào cơ sở dữ liệu   
+20 Kiểm tra, chỉnh sửa việc nhập phiếu tin   
+21 Lập mục lục hồ sơ   
+a) Viết lời nói đầu ;  
+b) In và đóng quyển mục lục hồ sơ từ cơ sở dữ liệu (03 bộ).   
+22 Thống kê, bó gói, lập danh mục và viết thuyết minh tài 
+liệu loại   
+a) Sắp xếp, bó gói, thống kê tài liệu loại;   
+b) Viết thuyết minh tài liệu loại.   
+23 Kết thúc chỉnh lý   
+a) Hoàn thành và bàn giao hồ sơ phông;   
+b) Viết báo cáo tổng kết chỉnh lý.   
+3.4. Yêu cầu về vật tư, văn phòng phẩm:  
+Vật tư, văn phòng phẩm phục vụ chỉnh lý tài liệu thực hiện theo quy định tại:  
+- Thông tư 16/2023/TT -BNV ngày 15/11/2023 của Bộ Nội vụ quy định 
+định mực kinh tế - kỹ thuật chỉnh lý tài liệu nền giấy;  
+- Quyết định số 1687/QĐ -BKHCN ngày 23/7/2012 c ủa Bộ Khoa h ọc và 
+công ngh ệ về việc công b ố Tiêu chu ẩn quốc gia;  
+- Công văn số 283/VTLTNN -NVTW ngày 19/5/2004 của Cục Văn thư và 
+Lưu trữ nhà nước về việc hướng dẫn chỉnh lý tài liệu hành chính.  
+ 
+ 105 
+Vật tư, văn phòng phẩm phải đảm bảo các yêu cầu sau:  
+Stt Danh mục hàng hóa  Đơn 
+vị Yêu cầu  
+1 Bìa hồ sơ (Đã bao gồm 
+5% tỷ lệ sai hỏng)  
+ Tờ - Kích thư ớc: 650 mm  x 320 mm  
+(Không tính kích thư ớc phần tai 
+trên và tai dư ới), với sai số cho 
+phép ± 2 mm  
+Bìa h ồ sơ bao g ồm 5 ph ần sau:  
+- Tờ đầu có kích thư ớc 320 mm 
+x 230 mm;  
+- Phần gáy có kích thư ớc 320 
+mm x 40 mm (có 5 đư ờng gấp 
+nếp, kho ảng cách gi ữa các 
+đường là 10 mm)  
+- Tờ sau có kích thư ớc 320 mm x 
+230 mm;  
+- Phần tai trên và tai dư ới có kích 
+thước 230 mm x 100 mm (có 5 
+đường gấp nếp, kho ảng cách 
+giữa các đư ờng là 10 mm)  
+- Phần tai c ạnh có kích thư ớc 
+320 mm x 150 mm (có 5 đư ờng 
+gấp nếp, kho ảng cách gi ữa các 
+đường là 10 mm)  
+Chú thích: Trong trư ờng hợp tài 
+liệu lưu tr ữ có kích thư ớc khác 
+kích thư ớc A4 thì có th ể thay đ ổi 
+kích thư ớc bìa h ồ sơ lưu tr ữ cho 
+phù h ợp. 
+- Chất liệu:  định lư ợng ≥ 
+250g/m2, đ ộ trắng ≥ 70, đ ộ ẩm ≤ 
+7 ± 2%  
+- Bìa h ồ sơ có gi ấy chứng nh ận 
+đạt chu ẩn theo TCVN 9251:2012 
+(còn hi ệu lực) do đơn v ị có ch ức 
+năng ki ểm tra tiêu chu ẩn đo 
+lường ch ất lượng ch ứng nh ận 
+phát hành và đư ợc sản xuất tại 
+đơn v ị có ch ứng nh ận ISO 9001: 
+ 
+ 106 
+Stt Danh mục hàng hóa  Đơn 
+vị Yêu cầu  
+2015 (còn hi ệu lực)  về thiết bị 
+bảo quản, cung ứng vật tư trang 
+thiết bị lưu tr ữ.  
+(Cung c ấp tài li ệu chứng minh)  
+2 Tờ mục lục văn bản (Đã 
+bao gồm 5% tỷ lệ sai 
+hỏng)  Tờ - Dòng chữ ‘MỤC LỤC VĂN 
+BẢN” được trình bày cách mép 
+bìa trên 20 mm, cân giữa, phông 
+chữ VnTimeH, cỡ chữ 15, kiểu 
+chữ đậm.  
+- Dưới dòng chữ ‘MỤC LỤC 
+VĂN BẢN” 10 mm là bảng 
+thống kê văn bản cách mép phải 
+và trái 10 mm, mép dưới 15 mm, 
+gồm 7 cột với kích thước mỗi cột 
+như sau:  
+Stt Tên cột  Độ rộng  
+1 Số thứ tự  10mm  
+2 Số, ký 
+hiệu văn 
+bản 30mm  
+3 Ngày 
+tháng 
+văn bản  30mm  
+4 Tác giả 
+văn bản  40mm  
+5 Trích 
+yếu nội 
+dung văn 
+bản 75mm  
+6 Tờ số  10mm  
+7 Ghi chú  20mm  
+Tên các cột: Phông chữ VnTime, 
+cỡ chữ 12, kiểu chữ đứng, đậm.  
+Các dòng kẻ ngang trong bảng 
+thống kê cách nhau 10 mm.  
+Loại giấy trắng khổ A4 định 
+ 
+ 107 
+Stt Danh mục hàng hóa  Đơn 
+vị Yêu cầu  
+lượng < 80g/m2  
+3 Giấy trắng làm sơ mi khi 
+lập hồ sơ  Tờ Loại giấy trắng khổ A4 định 
+lượng < 70g/m2  
+4 Giấy trắng in mục lục hồ 
+sơ, nhãn hộp (Đã bao 
+gồm 5% tỷ lệ sai hỏng)  Tờ Loại giấy trắng khổ A4 định 
+lượng > 80g/m2.  
+5 Giấy trắng viết thống kê 
+tài liệu loại (Đã bao gồm 
+5% tỷ lệ sai hỏng)  Tờ Loại giấy trắng khổ A4 định 
+lượng > 80g/m2.  
+6 Phiếu tin (Đã bao gồm 
+5% tỷ lệ sai hỏng)  Tờ - Trình bày trên 2 mặt của tờ 
+giấy khổ A5: 148 mm x 210 mm.  
+Loại giấy trắng, định lượng 
+>80g/m2  
+7 Bút viết bìa  Chiếc  Loại tốt, chất lượng cao  
+8 Bút viết phiếu tin, thống 
+kê tài liệu loại  Chiếc  Loại tốt, chất lượng cao  
+9 Bút chì để đánh số tờ  Chiếc  Loại tốt, chất lượng cao  
+10 Mực in mục lục hồ sơ 
+nhãn hộp  Hộp Loại tốt, chất lượng cao  
+11 Hộp đựng tài liệu  Chiếc  - Kích thước: 350mm x 250mm 
+x 125mm sai số + 2mm.  
+- Hộp có hình dạng chữ nhật, 
+nắp có dây buộc, khuy hộp được 
+làm bằng vật liệu không ăn mòn, 
+dày 3mm.  
+- Nắp hộp có chiều dài 129mm  
+- Chất liệu: Carton,  định lượng ≥ 
+1.300g/m2, độ dày ≥ 1,5mm, độ 
+ẩm ≤ 10 ± 2% . 
+Hộp đựng tài liệu có giấy chứng 
+nhận đạt chuẩn theo TCVN 
+9252:2012 (còn hiệu lực) do đơn 
+vị có chức năng kiểm tra tiêu 
+chuẩn đo lường chất lượng 
+chứng nhận phát hành và được 
+ 
+ 108 
+Stt Danh mục hàng hóa  Đơn 
+vị Yêu cầu  
+sản xuất tại đơn vị có chứng 
+nhận ISO 9001: 2015 (còn hiệu 
+lực)  về thiết bị bảo quản, cung 
+ứng vật tư trang thiết bị lưu trữ.  
+(Cung cấp tài liệu chứng minh)  
+12 Hồ dán nhãn hộp  Lọ Hồ chất lượng cao, độ bám dính 
+tốt, có hóa chất chống chuột và 
+các côn trùng.  
+13 Dao, kéo cắt giấy, ghim 
+kẹp, dây buộc, bút xóa, 
+chổi lông, các văn phòng 
+phẩm khác   Loại tốt, chất lượng cao   
+3.5. Biện pháp đảm bảo yêu cầu về tính bảo mật trong quá trình thực 
+hiện chỉnh lý tài liệu  
+- Tất cả nhân sự tham gia chỉnh lý tài liệu  phải cam kết  không được mang bất 
+kỳ thiết bị có khả năng chụp hình, ghi hình (bao gồm: máy vi tính, điện thoại thông 
+minh, máy tính bảng, máy ghi âm, máy ảnh, máy quay phim, USB, thẻ nhớ, ổ cứng 
+di động,…) và các giấy tờ, vật dụng dùng để thực hiện hành vi sao chép/ghi chép 
+tài liệu trong quá trình triển khai dự án vào hoặc ra khỏi phòng thực hiện chỉnh lý 
+tài liệu nếu chưa được sự đồng ý của Chủ đầu tư để đảm bảo thông tin không tiết lộ 
+ra bên ngoài;  
+- Máy vi tính, thiết bị dùng để lưu trữ dữ liệu phục vụ cho việc chỉnh lý tài 
+liệu được kết nối với nhau qua mạng LAN và có giải pháp phòng chống virus máy 
+tính; dữ liệu trên tất cả các thiết bị phục vụ cho việc chỉnh lý tài liệu, kể cả hệ thống 
+camera giám sát (nếu có triển khai) phải được xóa hết và được Chủ đầu tư (hoặc 
+đơn vị có nghĩa vụ liên quan) kiểm tra và xác nhận trước khi mang ra khỏi phòng 
+thực hiện chỉnh lý tài liệu (ngoại trừ thiết bị lưu trữ bàn giao dữ liệu cho Chủ đầu 
+tư). 
+Máy vi tính, thiết bị dùng để lưu trữ dữ liệu phục vụ cho việc chỉnh lý tài liệu 
+phải có giải pháp chống thất thoát dữ liệu (DLP) hoặc sử dụng phần mềm đảm bảo 
+(DLP) trong quá trình thi công chỉnh lý tài liệu với tối thiểu các tính năng sau (Có 
+tài liệu chứng minh):  
++ Kiểm soát truyền file qua ứng dụng, email  
++ Kiểm soát truyền file qua thiết bị ngoại vi(usb)  
++ Yêu cầu truyền file  
++ Mã hóa/giải mã file  
++ Kiểm soát thiết bị ngoại vi  
+ 
+ 109 
++ Kiểm soát ứng dụng ( kiểm soát theo process name)  
++ Kiểm soát ứng dụng ( kiểm soát theo meta data)  
++ Kiểm soát chụp ảnh màn hình (phím print screen)  
++ Kiểm soát website (theo url)  
++ Kiểm soát website (theo keyword)  
++ Kiểm soát in ấn tài liệu  
++ Watermark tài liệu in  
++ Lưu log kiểm soát truyền file qua ứng dụng, email  
++ Lưu log kiểm soát truyền fille qua thiết bị ngoại vi (usb)  
++ Lưu log kiểm soát ứng dụng  
++ Lưu log kiểm soát chụp màn hình  
++ Lưu log kiểm soát website  
++ Lưu log kiểm soát in ấn, watermark.  
++ Lập biểu đồ, báo cáo thống kê  
+- Hết thời gian làm việc trong ngày, phòng làm việc phải đảm bảo ngắt toàn 
+bộ hệ thống điện và khóa cửa - niêm phong; có sổ nhật ký ghi chép rõ người chịu 
+trách nhiệm thực hiện dán hoặc gỡ niêm phong hằng ngày.  
+3.6. Yêu cầu về  Phần mềm hỗ trợ thi công  trong quá trình triển khai 
+công việc:  
+Nhà thầu có phần mềm thi công chỉnh lý tài liệu đảm bảo các chức năng:  
+- Bảo mật bằng tài khoản sử dụng mật khẩu, có thể sử dụng nhiều tài khoản 
+thi công trên môi trường internet tại cùng một thời điểm (cung cấp đường link truy 
+cập phần mềm và tài khoản demo có thể truy cập toàn bộ chức năng yêu cầu);  
+- Quản lý, thêm mới, sửa, xóa, phân quyền người dùng cho từng vị trí cụ 
+thể (có thuyết minh chi tiết và đính kèm Video demo);  
+- Quản lý, thêm mới, sửa, xóa danh mục theo dự án phòng ban, mảng công 
+việc, thời hạn bảo quản (có thuyết minh chi tiết và đính kèm Video demo);  
+- Gán mã định danh điện tử cho phòng ban, mảng công việc theo quy định 
+tại Thông tư số 02/2019/TT -BNV ngày 24/01/2019 của Bộ Nội Vụ (có thuyết 
+minh chi tiết và đính kèm Video demo);  
+- Biên mục phiếu tin, mục lục văn bản trực tiếp trên phần mềm và Nhập dữ 
+liệu từ biểu mẫu Excel (có thuyết minh chi tiết và đính kèm Video demo);  
+- Tìm kiếm hồ sơ, văn bản bằng từ khóa (có thuyết minh chi tiết và đính 
+kèm Video demo);  
+- Đáp ứng đầy đủ chức năng hệ thống hóa và đánh số tự động theo các 
+cách sau:  
++ Mặt hoạt động - Thời gian  
++ Thời gian - Mặt hoạt động  
++ Thời hạn bảo quản tăng dần - Mặt hoạt động - Thời gian  
+ 
+ 110 
++ Thời hạn bảo quản giảm dần - Mặt hoạt động - Thời gian  
++ Thời hạn bảo quản tăng dần - Thời gian - Mặt hoạt động  
++ Thời hạn bảo quản giảm dần - Thời gian - Mặt hoạt động;  
+(có thuyết minh chi tiết và đính kèm Video demo)  
+- Xuất in sản phẩm: Nhãn hộp, mục lục hồ sơ, mục lục văn bản, hướng dẫn 
+tra tìm tự động (có thuyết minh chi tiết và đính kèm Video demo).  
+- Tạo lập, quản lý, khai thác hồ sơ, tài liệu theo kho lưu trữ (có thuyết minh 
+chi tiết và đính kèm Video demo);  
+- Thống kê, báo cáo dữ liệu thi công dự án của từng tài khoản tham gia theo 
+ngày (có thuyết minh chi tiết và đính kèm Video demo);  
+- Tổng kết, báo cáo kết quả hoàn thiện dự án (có thuyết minh chi tiết và 
+đính kèm Video demo).  
+- Phần mềm đảm bảo không vi phạm luật sở hữu trí tuệ với bất kỳ cá nhân 
+hay tổ chức nào (Có bản quyền được xác nhận của cơ quan chức năng).  
+- Phần mềm có đầy đủ các chức năng đảm bảo tính đồng bộ, xuyên suốt 
+trong việc thi công chỉnh lý tài liệu . 
+4. Giải pháp và phương pháp luận:  
+Nhà thầu chuẩn bị đề xuất giải pháp, phương pháp luận tổng quát thực 
+hiện dịch vụ theo các nội dung quy định tại Chương V, gồm các phần như sau:  
+1. Giải pháp và phương pháp luận;  
+2.  Kế hoạch công tác.  
+5. Quy định về kiểm tra, nghiệm thu sản phẩm:  
+Nhà thầu chuẩn bị bộ hồ sơ sau chỉnh lý để phục vụ công tác thanh, quyết 
+toán hợp đồng, gồm các sản phẩm như sau:  
+1. Kế hoạch chỉnh lý;  
+2. Biên bản giao nhận tài liệu;  
+3. Bản hướng dẫn phân loại lập hồ sơ;  
+4. Bản hướng dẫn xác định giá trị tài liệu;  
+5. Báo cáo tổng kết chỉnh lý;  
+6. Danh mục hồ sơ và file dữ liệu điện tử;  
+7. Danh mục tài liệu loại;  
+8. Biên bản nghiệm thu, thanh lý hợp đồng.  
+ 
