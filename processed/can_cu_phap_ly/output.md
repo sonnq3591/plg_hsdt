@@ -16,5 +16,5 @@
 **Quy định về tiêu chuẩn kỹ thuật văn phòng phẩm:**
 
 - Quyết định số 1687/QĐ-BKHCN ngày 23/7/2012 của Bộ Khoa học và công nghệ về việc công bố Tiêu chuẩn quốc gia;
-- Thông tư 16/2023/TT-BNV ngày 15/11/2023 của Bộ Nội vụ quy định định mực kinh tế - kỹ thuật chỉnh lý tài liệu nền giấy;
+- Thông tư 16/2023/TT-BNV ngày 15/11/2023 của Bộ Nội vụ quy định định mức kinh tế - kỹ thuật chỉnh lý tài liệu nền giấy;
 - Thông tư số 12/2010/TT-BNV ngày 26/11/2010 của Bộ Nội vụ hướng dẫn phương pháp xác định đơn giá chỉnh lý tài liệu giấy.
