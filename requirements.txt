@@ -1,6 +1,18 @@
-openai==0.28.1
+# Walking Skeleton Requirements
+# Phase 1: Basic API wrapper for existing processors
+
+# FastAPI and server
+fastapi==0.104.1
+uvicorn==0.24.0
+python-multipart==0.0.6  # For file uploads
+
+# Your existing dependencies
+openai==0.28.1  # Keep same version as your code
 python-docx==0.8.11
 PyPDF2==3.0.1
+PyMuPDF==1.23.8  # fitz
 python-dotenv==1.0.0
-PyMuPDF
-tabula-py
+
+# Additional utilities
+pathlib2==2.3.7  # Python 3.4+ compatibility
+typing-extensions==4.8.0
